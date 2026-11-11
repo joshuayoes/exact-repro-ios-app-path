@@ -1,5 +1,7 @@
 # No way to get the built iOS simulator `.app` path alone
 
+Reported in [expo/exact#104](https://github.com/expo/exact/issues/104).
+
 Explore (`npx @expo/explore explore:binary <path> --simulator local`) takes an Exact simulator build
 as is, but the path appears only in the last line `bun exact.mjs ios` prints:
 
