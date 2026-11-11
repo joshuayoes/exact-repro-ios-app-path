@@ -1,0 +1,20 @@
+{
+  "$schema": "../exact/scripts/app.schema.json",
+  "name": "Exact Repro Ios App Path",
+  "short_name": "Exact Repro Ios App Path",
+  "id": "com.example.exact-repro-ios-app-path-62d1d0",
+  "start_url": "/",
+  "display": "standalone",
+  "app": {
+    "id": "com.example.exact-repro-ios-app-path-62d1d0",
+    "name": "Exact Repro Ios App Path"
+  },
+  "host": {
+    "web": {}
+  },
+  "deploy": {
+    "store": {
+      "web": "0"
+    }
+  }
+}
